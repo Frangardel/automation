@@ -1,4 +1,7 @@
+#Personal
 secrets.py
+
+#DataBases
 *.sqlite3
 
 # Byte-compiled / optimized / DLL files
